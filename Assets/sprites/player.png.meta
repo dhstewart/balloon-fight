@@ -1,16 +1,17 @@
 fileFormatVersion: 2
 guid: 767220814b0724591982692b7edf9383
-timeCreated: 1439691734
+timeCreated: 1439729400
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
     21300000: player_0
     21300002: player_1
     21300004: player_2
+    21300006: player_3
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     linearTexture: 0
     correctGamma: 0
     fadeOut: 0
@@ -32,7 +33,7 @@ TextureImporter:
   textureFormat: -1
   maxTextureSize: 2048
   textureSettings:
-    filterMode: -1
+    filterMode: 0
     aniso: 16
     mipBias: -1
     wrapMode: 1
@@ -60,7 +61,7 @@ TextureImporter:
         width: 17
         height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: player_1
       rect:
@@ -70,7 +71,7 @@ TextureImporter:
         width: 13
         height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: player_2
       rect:
@@ -80,7 +81,17 @@ TextureImporter:
         width: 14
         height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
